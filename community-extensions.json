@@ -1,17 +1,17 @@
 [
   {
-    "id": "openit",
-    "name": "OpenIt",
+    "id": "launcher",
+    "name": "Launcher",
     "description": "Opens programs, apps, folders, files and URLs on your computer via voice or text commands.",
     "category": "utility",
     "icon": "RocketLaunch",
     "author": "WesleyQDev",
-    "repo": "WesleyQDev/momai-extension-openit",
-    "download_url": "https://github.com/WesleyQDev/momai-extension-openit/archive/refs/heads/main.zip",
+    "repo": "WesleyQDev/momai-extension-launcher",
+    "download_url": "https://github.com/WesleyQDev/momai-extension-launcher/archive/refs/heads/main.zip",
     "version": "1.0.0",
     "locales": {
       "pt-BR": {
-        "name": "AbreTudo",
+        "name": "Lançador",
         "description": "Abre programas, aplicativos, pastas, arquivos e URLs no computador através de comandos de voz ou texto."
       }
     }
