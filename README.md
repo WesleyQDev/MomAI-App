@@ -13,7 +13,16 @@
 
 ## Sobre
 
-A MomAI é uma assistente de inteligência artificial que roda localmente no seu computador. Sem depender de nuvem, sem exigir login e sem enviar seus dados para servidores externos — tudo processado e armazenado na sua própria máquina.
+A MomAI é uma assistente de inteligência artificial que processa e armazena tudo localmente, sem enviar dados sensíveis ou privados para servidores próprios. Você não precisa criar conta nem fazer login.
+
+Ela usa internet para:
+- Instalar dependências Python (como Faster Whisper) via pip na primeira execução
+- Verificar atualizações nos servidores do GitHub
+- Sintetizar voz pelo Edge TTS (se estiver habilitado)
+- Baixar extensões da loja
+- Pesquisa na web via DuckDuckGo (skill nativa)
+
+Após a primeira inicialização e o envio de uma mensagem, a MomAI já está pronta para funcionar offline se você quiser — ou continuar online conforme sua preferência.
 
 ## Funcionalidades
 
@@ -23,7 +32,7 @@ A MomAI é uma assistente de inteligência artificial que roda localmente no seu
 - **Memória e lembretes.** Agende lembretes com notificação e deixe a MomAI cuidar dos seus compromissos.
 - **WhatsApp.** Conecte sua conta, monitore conversas, receba notificações e responda mensagens por voz ou texto.
 - **Extensões.** Adicione novas capacidades pela loja de extensões integrada.
-- **Privacidade total.** Nenhum dado sai do seu computador. Sem nuvem, sem coleta, sem rastreamento.
+- **Privacidade total.** Nenhum dado sensível ou privado é enviado para servidores próprios. Sem coleta, sem rastreamento.
 
 ## Assista
 
