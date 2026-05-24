@@ -1,6 +1,6 @@
 <div align="center">
 
-![MomAI](https://momaiassistente.studio/icon.gif)
+![MomAI](https://momaiassistente.studio/icon.png)
 
 # MomAI
 
