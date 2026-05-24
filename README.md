@@ -17,15 +17,21 @@ A MomAI é uma assistente de inteligência artificial que roda localmente no seu
 
 ## Funcionalidades
 
-- **Comandos de voz** — Ative com a palavra de chamada e faça perguntas ou dê comandos sem usar as mãos
-- **Pesquisa na web** — Busque informações atualizadas da internet
-- **Memória e lembretes** — Crie anotações e agende lembretes com notificação
-- **Extensões** — Adicione novas capacidades através da loja de extensões
-- **Privacidade total** — Nenhum dado sai do seu computador
+- **Comandos de voz** — Ative com a palavra de chamada e faça perguntas ou dê comandos sem usar as mãos. Tudo processado localmente.
+- **Sistema de notas** — Crie, edite e gerencie notas diretamente por texto ou voz. A MomAI organiza suas anotações de forma inteligente.
+- **Pesquisa na web** — Busque informações atualizadas da internet sem precisar abrir o navegador.
+- **Memória e lembretes** — Agende lembretes com notificações e deixe a MomAI lembrar você dos compromissos.
+- **WhatsApp** — Conecte sua conta do WhatsApp e monitore conversas, receba notificações e responda mensagens por voz ou texto.
+- **Extensões** — Adicione novas capacidades através da loja de extensões integrada.
+- **Privacidade total** — Nenhum dado sai do seu computador. Sem nuvem, sem coleta, sem rastreamento.
 
 ## Assista
 
+<div align="center">
+
 [![MomAI - Assistente Local](https://img.youtube.com/vi/fzyV0VCn_ZM/0.jpg)](https://youtu.be/fzyV0VCn_ZM)
+
+</div>
 
 ## Disponibilidade
 
