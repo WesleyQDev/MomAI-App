@@ -1,6 +1,6 @@
 <div align="center">
 
-![MomAI](https://momaiassistente.studio/icon.png)
+<img src="https://momaiassistente.studio/icon.png" width="200" alt="MomAI" />
 
 # MomAI
 
@@ -22,6 +22,10 @@ A MomAI é uma assistente de inteligência artificial que roda localmente no seu
 - **Memória e lembretes** — Crie anotações e agende lembretes com notificação
 - **Extensões** — Adicione novas capacidades através da loja de extensões
 - **Privacidade total** — Nenhum dado sai do seu computador
+
+## Assista
+
+[![MomAI - Assistente Local](https://img.youtube.com/vi/fzyV0VCn_ZM/0.jpg)](https://youtu.be/fzyV0VCn_ZM)
 
 ## Disponibilidade
 
