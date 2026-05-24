@@ -39,6 +39,8 @@ A MomAI é uma assistente de inteligência artificial que roda localmente no seu
 
 **Linux** — Disponível pelo site oficial e nas Releases.
 
+As versões são desenvolvidas primeiro para Windows. Se encontrar problemas, reports nas Issues são sempre bem-vindos.
+
 ## Links
 
 - [Microsoft Store](https://apps.microsoft.com/detail/9nm4jg67cgcd?hl=pt-BR&gl=BR)
