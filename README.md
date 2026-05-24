@@ -50,24 +50,9 @@ Após a primeira inicialização e o envio de uma mensagem, a MomAI já está pr
 
 As versões são desenvolvidas primeiro para Windows. Se encontrar problemas, reports nas Issues são sempre bem-vindos.
 
-## LGPD e Privacidade
+---
 
-**Controladora:** Wesley Queiroz Alencar
-
-**Dados processados:** A MomAI processa localmente no seu computador as conversas, notas, lembretes e configurações que você cria. Nenhum dado pessoal ou sensível é enviado para servidores da MomAI.
-
-**Conexões externas:** A MomAI se conecta à internet exclusivamente para:
-- Instalar dependências Python (pip) na primeira execução
-- Verificar atualizações no GitHub
-- Sintetizar voz via Edge TTS (se habilitado)
-- Baixar extensões da loja
-- Pesquisar na web via DuckDuckGo
-
-**Seus direitos:** Você pode a qualquer momento acessar, corrigir ou excluir seus dados diretamente pelo aplicativo. Para solicitações adicionais, entre em contato pelo e-mail abaixo.
-
-**Retenção:** Seus dados ficam armazenados apenas no seu computador e podem ser removidos a qualquer momento desinstalando o aplicativo ou excluindo manualmente os arquivos locais.
-
-**Contato:** wesleyqueirozdeveloper@gmail.com
+<small><em>MomAI não coleta dados pessoais para servidores próprios. Processamento e armazenamento são locais. Saiba mais na <a href="https://momaiassistente.studio/politicas-privacidade-momai.html">política de privacidade</a>.</em></small>
 
 ## Links
 
