@@ -35,9 +35,12 @@ A MomAI é uma assistente de inteligência artificial que roda localmente no seu
 
 ## Disponibilidade
 
-Compatível com Windows. Disponível gratuitamente na Microsoft Store ou pelo site oficial.
+**Windows** — Microsoft Store, Winget (`winget install MomAI`) ou executável direto pelo site e nas Releases.
+
+**Linux** — Disponível pelo site oficial e nas Releases.
 
 ## Links
 
-- [Baixar da Microsoft Store](https://apps.microsoft.com/detail/9nm4jg67cgcd?hl=pt-BR&gl=BR)
+- [Microsoft Store](https://apps.microsoft.com/detail/9nm4jg67cgcd?hl=pt-BR&gl=BR)
 - [Site oficial](https://momaiassistente.studio/)
+- [Releases](https://github.com/WesleyQDev/MomAI-App/releases)
