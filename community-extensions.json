@@ -15,5 +15,22 @@
         "description": "Abre programas, aplicativos, pastas, arquivos e URLs no computador através de comandos de voz ou texto."
       }
     }
+  },
+  {
+    "id": "whatsapp",
+    "name": "WhatsApp",
+    "description": "Monitore e responda mensagens do WhatsApp",
+    "category": "utility",
+    "icon": "WhatsApp",
+    "author": "WesleyQDev",
+    "repo": "WesleyQDev/momai-whatsapp-extension",
+    "download_url": "https://github.com/WesleyQDev/momai-whatsapp-extension/archive/refs/tags/v0.1.0.zip",
+    "version": "0.1.0",
+    "locales": {
+      "pt-BR": {
+        "name": "WhatsApp",
+        "description": "Monitore e responda mensagens do WhatsApp"
+      }
+    }
   }
 ]
