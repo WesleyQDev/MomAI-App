@@ -11,8 +11,8 @@
     "version": "1.0.0",
     "locales": {
       "pt-BR": {
-        "name": "Lançador",
-        "description": "Abre programas, aplicativos, pastas, arquivos e URLs no computador através de comandos de voz ou texto."
+        "name": "LanÃ§ador",
+        "description": "Abre programas, aplicativos, pastas, arquivos e URLs no computador atravÃ©s de comandos de voz ou texto."
       }
     }
   },
@@ -25,8 +25,8 @@
     "icon_url": "https://raw.githubusercontent.com/WesleyQDev/momai-whatsapp-extension/main/icon.svg",
     "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-whatsapp-extension",
-    "download_url": "https://github.com/WesleyQDev/momai-whatsapp-extension/archive/refs/tags/v0.1.0.zip",
-    "version": "0.1.0",
+    "download_url": "https://github.com/WesleyQDev/momai-whatsapp-extension/releases/download/v0.3.20/momai-whatsapp-extension-v0.3.20.zip",
+    "version": "0.3.20",
     "locales": {
       "pt-BR": {
         "name": "WhatsApp",
