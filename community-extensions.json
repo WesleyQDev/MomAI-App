@@ -11,8 +11,8 @@
     "version": "1.0.0",
     "locales": {
       "pt-BR": {
-        "name": "LanÃ§ador",
-        "description": "Abre programas, aplicativos, pastas, arquivos e URLs no computador atravÃ©s de comandos de voz ou texto."
+        "name": "Lançador",
+        "description": "Abre programas, aplicativos, pastas, arquivos e URLs no computador através de comandos de voz e texto."
       }
     }
   },
