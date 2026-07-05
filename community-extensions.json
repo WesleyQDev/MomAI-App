@@ -1,17 +1,17 @@
 [
   {
     "id": "launcher",
-    "name": "Launcher",
+    "name": "MomAI Open",
     "description": "Opens programs, apps, folders, files and URLs on your computer via voice or text commands.",
     "category": "utility",
     "icon": "RocketLaunch",
     "author": "WesleyQDev",
-    "repo": "WesleyQDev/momai-extension-launcher",
-    "download_url": "https://github.com/WesleyQDev/momai-extension-launcher/archive/refs/heads/main.zip",
+    "repo": "WesleyQDev/momai-open",
+    "download_url": "https://github.com/WesleyQDev/momai-open/archive/refs/heads/main.zip",
     "version": "1.0.0",
     "locales": {
       "pt-BR": {
-        "name": "Lançador",
+        "name": "MomAI Open",
         "description": "Abre programas, aplicativos, pastas, arquivos e URLs no computador através de comandos de voz e texto."
       }
     }
@@ -25,8 +25,8 @@
     "icon_url": "https://raw.githubusercontent.com/WesleyQDev/momai-whatsapp-extension/main/icon.svg",
     "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-whatsapp-extension",
-    "download_url": "https://github.com/WesleyQDev/momai-whatsapp-extension/releases/download/v0.3.30/momai-whatsapp-extension-v0.3.30.zip",
-    "version": "0.3.30",
+    "download_url": "https://github.com/WesleyQDev/momai-whatsapp-extension/releases/download/v0.3.31/momai-whatsapp-extension-v0.3.31.zip",
+    "version": "0.3.31",
     "locales": {
       "pt-BR": {
         "name": "WhatsApp",
