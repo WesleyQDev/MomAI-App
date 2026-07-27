@@ -8,8 +8,6 @@
 
 [![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-Download-0078D4?style=for-the-badge&logo=microsoft)](https://apps.microsoft.com/detail/9nm4jg67cgcd?hl=en-US&gl=US)
 [![Site](https://img.shields.io/badge/Site-momaiassistente.studio-8B5CF6?style=for-the-badge&logo=google-chrome)](https://momaiassistente.studio/)
-[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg?style=flat-square)](LICENSE)
-[![Read in Portuguese](https://img.shields.io/badge/Leia_em_Portugues--brightgreen?style=flat-square&logo=googletranslate)](README.pt-BR.md)
 
 </div>
 
@@ -62,16 +60,6 @@ MomAI's long-term goal is to be a **proactive** assistant: analyze incoming data
 **Linux.** Available from the official website and Releases.
 
 Versions are developed for Windows first. If you find issues, bug reports are always welcome.
-
-## License
-
-The MomAI application (compiled code) is distributed under a proprietary license.
-Free for personal use. See the [LICENSE](LICENSE) file for full terms.
-
-Official extensions (WhatsApp Web, MomAIOpen) are open source and have
-their own licenses in the repositories listed in the extensions table.
-
-Copyright (c) 2026 WesleyQDev. All rights reserved.
 
 ---
 
