@@ -4,84 +4,85 @@
 
 # MomAI
 
-**Sua assistente proativa que respeita sua privacidade**
+**Your proactive AI assistant that respects your privacy**
 
-[![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-Baixar-0078D4?style=for-the-badge&logo=microsoft)](https://apps.microsoft.com/detail/9nm4jg67cgcd?hl=pt-BR&gl=BR)
+[![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-Download-0078D4?style=for-the-badge&logo=microsoft)](https://apps.microsoft.com/detail/9nm4jg67cgcd?hl=en-US&gl=US)
 [![Site](https://img.shields.io/badge/Site-momaiassistente.studio-8B5CF6?style=for-the-badge&logo=google-chrome)](https://momaiassistente.studio/)
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg?style=flat-square)](LICENSE)
+[![Read in Portuguese](https://img.shields.io/badge/Leia_em_Portugues--brightgreen?style=flat-square&logo=googletranslate)](README.pt-BR.md)
 
 </div>
 
-## Sobre
+## About
 
-O grande objetivo da MomAI é ser uma assistente **proativa**: analisar dados de entrada, entender o contexto e realizar tarefas de forma autonoma, seguindo os habitos e preferencias do usuario. Tudo localmente, sem comprometer sua privacidade.
+MomAI's long-term goal is to be a **proactive** assistant: analyze incoming data, understand context, and perform tasks autonomously based on your habits and preferences. Everything runs locally, without compromising your privacy.
 
-**O que ja esta implementado hoje:**
+**What is already implemented today:**
 
-- **Sistema de extensoes.** Adicione novas capacidades pela loja integrada. Extensoes sao pacotes auto-contidos com UI React e manifesto proprio.
-- **3 tipos de sintese de voz.** Edge TTS (nuvem), Kokoro ONNX (local, streaming) e say.js (fallback local). Escolha entre qualidade e privacidade.
-- **3 modos de operacao.** Execute conforme seu hardware: modo leve para maquinas modestas, modo balanceado e modo maximo para GPUs dedicadas.
-- **Sistema de notas Markdown completo.** Crie, edite e gerencie notas por texto ou voz. A MomAI organiza tudo de forma inteligente.
-- **Memoria inteligente.** A MomAI se lembra de informacoes entre sessoes, construindo um contexto persistente sobre voce.
-- **Busca na web e no YouTube.** Pesquise informacoes atualizadas da internet e encontre videos sem abrir o navegador.
-- **Comandos de voz.** Ative com a palavra de chamada ("Sistema") e use a assistente sem usar as maos.
-- **Privacidade total.** Nenhum dado sensivel e enviado para servidores proprios. Sem cadastro, sem login, sem coleta.
+- **Extension system.** Add new capabilities through the built-in store. Extensions are self-contained packages with React UI and their own manifest.
+- **3 voice synthesis options.** Edge TTS (cloud), Kokoro ONNX (local, streaming) and say.js (local fallback). Choose between quality and privacy.
+- **3 operation modes.** Run according to your hardware: light mode for modest machines, balanced mode, and maximum mode for dedicated GPUs.
+- **Complete Markdown notes system.** Create, edit and manage notes by text or voice. MomAI organizes everything intelligently.
+- **Smart memory.** MomAI remembers information across sessions, building a persistent context about you.
+- **Web and YouTube search.** Search the web for up-to-date information and find videos without opening a browser.
+- **Voice commands.** Activate with the wake word ("Sistema") and use the assistant hands-free.
+- **Total privacy.** No sensitive data is sent to our own servers. No sign-up, no login, no tracking.
 
-## Extensoes Oficiais
+## Official Extensions
 
-| Extensao | Descricao | Repositorio |
-|----------|-----------|-------------|
-| WhatsApp Web | Integracao com WhatsApp: monitorar conversas, receber notificacoes e responder mensagens | [WesleyQDev/momai-whatsapp-extension](https://github.com/WesleyQDev/momai-whatsapp-extension) |
-| MomAIOpen | Abra programas, arquivos e pastas com comandos em linguagem natural | [WesleyQDev/momai-open](https://github.com/WesleyQDev/momai-open) |
+| Extension | Description | Repository |
+|-----------|-------------|------------|
+| WhatsApp Web | WhatsApp integration: monitor conversations, receive notifications, and reply to messages | [WesleyQDev/momai-whatsapp-extension](https://github.com/WesleyQDev/momai-whatsapp-extension) |
+| MomAIOpen | Open programs, files and folders using natural language commands | [WesleyQDev/momai-open](https://github.com/WesleyQDev/momai-open) |
 
 ## Stack
 
-| Camada | Tecnologia |
-|--------|------------|
+| Layer | Technology |
+|-------|------------|
 | Desktop | Electron, React, TypeScript, TailwindCSS |
 | Build | electron-vite, pnpm, Turborepo |
-| Orquestracao de IA | Node.js, LangGraph, LangChain |
-| Busca Semantica | LanceDB |
-| Backend de Voz | Python 3.12+, FastAPI, faster-whisper, Kokoro ONNX |
+| AI Orchestration | Node.js, LangGraph, LangChain |
+| Semantic Search | LanceDB |
+| Voice Backend | Python 3.12+, FastAPI, faster-whisper, Kokoro ONNX |
 | TTS | edge-tts-universal, Kokoro ONNX, say.js |
-| Testes | Vitest (desktop), pytest (core) |
+| Testing | Vitest (desktop), pytest (core) |
 
-## Assista
+## Watch
 
 <div align="center">
 
-[![MomAI - Assistente Local](https://img.youtube.com/vi/fzyV0VCn_ZM/0.jpg)](https://youtu.be/fzyV0VCn_ZM)
+[![MomAI](https://img.youtube.com/vi/fzyV0VCn_ZM/0.jpg)](https://youtu.be/fzyV0VCn_ZM)
 
 </div>
 
-## Disponibilidade
+## Availability
 
-**Windows.** Microsoft Store, Winget (`winget install MomAI`) ou executavel direto pelo site e nas Releases.
+**Windows.** Microsoft Store, Winget (`winget install MomAI`) or direct download from the website and Releases.
 
-**Linux.** Disponivel pelo site oficial e nas Releases.
+**Linux.** Available from the official website and Releases.
 
-As versoes sao desenvolvidas primeiro para Windows. Se encontrar problemas, reports nas Issues sao sempre bem-vindos.
+Versions are developed for Windows first. If you find issues, bug reports are always welcome.
 
-## Licenca
+## License
 
-O aplicativo MomAI (codigo compilado) e distribuido sob licenca proprietaria.
-Uso pessoal gratuito. Veja o arquivo [LICENSE](LICENSE) para os termos completos.
+The MomAI application (compiled code) is distributed under a proprietary license.
+Free for personal use. See the [LICENSE](LICENSE) file for full terms.
 
-As extensoes oficiais (WhatsApp Web, MomAIOpen) sao open source e possuem
-suas proprias licencas nos repositorios indicados na tabela de extensoes.
+Official extensions (WhatsApp Web, MomAIOpen) are open source and have
+their own licenses in the repositories listed in the extensions table.
 
-Copyright (c) 2026 WesleyQDev. Todos os direitos reservados.
+Copyright (c) 2026 WesleyQDev. All rights reserved.
 
 ---
 
 <div align="center">
 
-<small><em>MomAI nao coleta dados pessoais para servidores proprios. Processamento e armazenamento sao locais. Saiba mais na <a href="https://momaiassistente.studio/politicas-privacidade-momai.html">politica de privacidade</a>.</em></small>
+<small><em>MomAI does not collect personal data to its own servers. Processing and storage are local.</em></small>
 
 </div>
 
 ## Links
 
-- [Microsoft Store](https://apps.microsoft.com/detail/9nm4jg67cgcd?hl=pt-BR&gl=BR)
-- [Site oficial](https://momaiassistente.studio/)
+- [Microsoft Store](https://apps.microsoft.com/detail/9nm4jg67cgcd?hl=en-US&gl=US)
+- [Official Website](https://momaiassistente.studio/)
 - [Releases](https://github.com/WesleyQDev/MomAI-App/releases)
