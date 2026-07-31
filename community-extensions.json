@@ -39,5 +39,26 @@
         "description": "Monitore e responda mensagens do WhatsApp"
       }
     }
+  },
+  {
+    "id": "momaismarthome",
+    "name": "MomAI Smart Home",
+    "description": "Controle dispositivos inteligentes do Home Assistant por voz, texto e painel visual.",
+    "category": "utility",
+    "icon": "Home",
+    "icon_url": "https://raw.githubusercontent.com/WesleyQDev/MomAISmartHome/main/icon.svg",
+    "icon_bg": "#8B5CF6",
+    "author": "WesleyQDev",
+    "repo": "WesleyQDev/MomAISmartHome",
+    "download_url": "https://github.com/WesleyQDev/MomAISmartHome/releases/download/v1.0.1/momaismarthome-v1.0.1.zip",
+    "version": "1.0.1",
+    "sdkVersion": 1,
+    "momai_compat": ">=1.7.0",
+    "locales": {
+      "pt-BR": {
+        "name": "MomAI Smart Home",
+        "description": "Controle luzes, TVs, climatização, sensores e outros dispositivos do Home Assistant."
+      }
+    }
   }
 ]
