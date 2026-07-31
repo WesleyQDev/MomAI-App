@@ -32,6 +32,7 @@ MomAI's long-term goal is to be a **proactive** assistant: analyze incoming data
 |-----------|-------------|------------|
 | WhatsApp Web | WhatsApp integration: monitor conversations, receive notifications, and reply to messages | [WesleyQDev/momai-whatsapp-extension](https://github.com/WesleyQDev/momai-whatsapp-extension) |
 | MomAIOpen | Open programs, files and folders using natural language commands | [WesleyQDev/momai-open](https://github.com/WesleyQDev/momai-open) |
+| MomAI Smart Home | Control Home Assistant devices, including lights, TVs, climate, sensors and more | [WesleyQDev/MomAISmartHome](https://github.com/WesleyQDev/MomAISmartHome) |
 
 ## Stack
 
