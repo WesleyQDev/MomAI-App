@@ -29,8 +29,8 @@
     "icon_bg": "#25D366",
     "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-whatsapp-extension",
-    "download_url": "https://github.com/WesleyQDev/momai-whatsapp-extension/releases/download/v0.4.0/momai-whatsapp-extension-v0.4.0.zip",
-    "version": "0.4.0",
+    "download_url": "https://github.com/WesleyQDev/momai-whatsapp-extension/releases/download/v0.4.2/momai-whatsapp-extension-v0.4.2.zip",
+    "version": "0.4.2",
     "sdkVersion": 1,
     "momai_compat": ">=1.7.0",
     "locales": {
@@ -50,8 +50,9 @@
     "icon_bg": "#8B5CF6",
     "author": "WesleyQDev",
     "repo": "WesleyQDev/MomAISmartHome",
-    "download_url": "https://github.com/WesleyQDev/MomAISmartHome/releases/download/v1.0.1/momaismarthome-v1.0.1.zip",
-    "version": "1.0.1",
+    "download_url": "https://github.com/WesleyQDev/MomAISmartHome/releases/download/v1.0.6/MomAISmartHome-v1.0.6.zip",
+    "expected_sha256": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5",
+    "version": "1.0.6",
     "sdkVersion": 1,
     "momai_compat": ">=1.7.0",
     "locales": {
