@@ -15,7 +15,7 @@
     "locales": {
       "pt-BR": {
         "name": "MomAI Open",
-        "description": "Abre programas, aplicativos, pastas, arquivos e URLs no computador atrav├®s de comandos de voz e texto."
+        "description": "Abre programas, aplicativos, pastas, arquivos e URLs no computador através de comandos de voz e texto."
       }
     }
   },
@@ -29,8 +29,8 @@
     "icon_bg": "#25D366",
     "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-whatsapp-extension",
-    "download_url": "https://github.com/WesleyQDev/momai-whatsapp-extension/releases/download/v0.4.9/momai-whatsapp-extension-v0.4.9.zip",
-    "version": "0.4.9",
+    "download_url": "https://github.com/WesleyQDev/momai-whatsapp-extension/releases/download/v0.4.11/momai-whatsapp-extension-v0.4.11.zip",
+    "version": "0.4.11",
     "sdkVersion": 1,
     "momai_compat": ">=1.7.0",
     "locales": {
@@ -50,15 +50,15 @@
     "icon_bg": "#8B5CF6",
     "author": "WesleyQDev",
     "repo": "WesleyQDev/MomAISmartHome",
-    "download_url": "https://github.com/WesleyQDev/MomAISmartHome/releases/download/v1.0.15/MomAISmartHome-v1.0.15.zip",
-    "expected_sha256": "4f2d81c9318b31a92841907b97c78514243c079a23ddbc38daf346ddfe73799b",
-    "version": "1.0.15",
+    "download_url": "https://github.com/WesleyQDev/MomAISmartHome/releases/download/v1.0.16/MomAISmartHome-v1.0.16.zip",
+    "expected_sha256": "519262d5af6a728a1d101a0d0c202ba637ff11c0e50ed72afa3a427e535e39e6",
+    "version": "1.0.16",
     "sdkVersion": 1,
     "momai_compat": ">=1.7.0",
     "locales": {
       "pt-BR": {
         "name": "MomAI Smart Home",
-        "description": "Controle luzes, TVs, climatiza├º├úo, sensores e outros dispositivos do Home Assistant."
+        "description": "Controle luzes, TVs, climatização, sensores e outros dispositivos do Home Assistant."
       }
     }
   }
