@@ -51,7 +51,7 @@
     "author": "WesleyQDev",
     "repo": "WesleyQDev/MomAISmartHome",
     "download_url": "https://github.com/WesleyQDev/MomAISmartHome/releases/download/v1.0.16/MomAISmartHome-v1.0.16.zip",
-    "expected_sha256": "519262d5af6a728a1d101a0d0c202ba637ff11c0e50ed72afa3a427e535e39e6",
+    "expected_sha256": "2ac2ee4640e97dae6a8188eaedbff30f09c31d6af363eacbefbca8fb701db8df",
     "version": "1.0.16",
     "sdkVersion": 1,
     "momai_compat": ">=1.7.0",
