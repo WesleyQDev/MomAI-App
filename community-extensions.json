@@ -29,8 +29,8 @@
     "icon_bg": "#25D366",
     "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-whatsapp-extension",
-    "download_url": "https://github.com/WesleyQDev/momai-whatsapp-extension/releases/download/v0.4.8/momai-whatsapp-extension-v0.4.8.zip",
-    "version": "0.4.8",
+    "download_url": "https://github.com/WesleyQDev/momai-whatsapp-extension/releases/download/v0.4.9/momai-whatsapp-extension-v0.4.9.zip",
+    "version": "0.4.9",
     "sdkVersion": 1,
     "momai_compat": ">=1.7.0",
     "locales": {
