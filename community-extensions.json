@@ -65,21 +65,21 @@
   {
     "id": "momai-vision",
     "name": "MomAI Vision",
-    "description": "Olhos para a MomAI: snapshots de c�meras, monitoramento e alertas 100% locais.",
+    "description": "Olhos para a MomAI: snapshots de câmeras, monitoramento e alertas 100% locais.",
     "category": "utility",
-    "icon": "???",
+    "icon": "👁️",
     "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-vision",
-    "download_url": "https://github.com/WesleyQDev/momai-vision/releases/download/v1.0.0/momai-vision-v1.0.0.zip",
-    "version": "1.0.0",
+    "download_url": "https://github.com/WesleyQDev/momai-vision/releases/download/v1.1.0/momai-vision-v1.1.0.zip",
+    "expected_sha256": "5bec1687d24f0886d6ab5aa0140ff109a8c52e2563f5ea8d010e728ffd555edf",
+    "version": "1.1.0",
     "sdkVersion": 1,
-    "momai_compat": ">=1.7.0",
+    "momai_compat": ">=1.7.1",
     "locales": {
       "pt-BR": {
         "name": "MomAI Vision",
-        "description": "Olhos para a MomAI: snapshots de c�meras, monitoramento e alertas 100% locais."
+        "description": "Olhos para a MomAI: snapshots de câmeras, monitoramento e alertas 100% locais."
       }
-    },
-    "sha256": "47065a8536b6b676832b054a2274aa6083d9c5d5abb7d3e560d042556e5ecf34"
+    }
   }
 ]
