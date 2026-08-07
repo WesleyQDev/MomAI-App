@@ -11,7 +11,7 @@
     "download_url": "https://github.com/WesleyQDev/momai-open/releases/download/v1.1.0/momai-open-v1.1.0.zip",
     "version": "1.1.0",
     "sdkVersion": 1,
-    "momai_compat": ">=1.7.0",
+    "momai_compat": ">=1.7.1",
     "locales": {
       "pt-BR": {
         "name": "MomAI Open",
@@ -32,7 +32,7 @@
     "download_url": "https://github.com/WesleyQDev/momai-whatsapp-extension/releases/download/v0.4.11/momai-whatsapp-extension-v0.4.11.zip",
     "version": "0.4.11",
     "sdkVersion": 1,
-    "momai_compat": ">=1.7.0",
+    "momai_compat": ">=1.7.1",
     "locales": {
       "pt-BR": {
         "name": "WhatsApp",
@@ -50,11 +50,11 @@
     "icon_bg": "#8B5CF6",
     "author": "WesleyQDev",
     "repo": "WesleyQDev/MomAISmartHome",
-    "download_url": "https://github.com/WesleyQDev/MomAISmartHome/releases/download/v1.0.16/MomAISmartHome-v1.0.16.zip",
-    "expected_sha256": "2ac2ee4640e97dae6a8188eaedbff30f09c31d6af363eacbefbca8fb701db8df",
-    "version": "1.0.16",
+    "download_url": "https://github.com/WesleyQDev/MomAISmartHome/releases/download/v1.0.17/MomAISmartHome-v1.0.17.zip",
+    "expected_sha256": "89f90f89b4576b8d213057d5ed23acb956ece8b9042e18ddaa80f3097384fffa",
+    "version": "1.0.17",
     "sdkVersion": 1,
-    "momai_compat": ">=1.7.0",
+    "momai_compat": ">=1.7.1",
     "locales": {
       "pt-BR": {
         "name": "MomAI Smart Home",
@@ -70,9 +70,9 @@
     "icon": "👁️",
     "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-vision",
-    "download_url": "https://github.com/WesleyQDev/momai-vision/releases/download/v1.1.0/momai-vision-v1.1.0.zip",
-    "expected_sha256": "5bec1687d24f0886d6ab5aa0140ff109a8c52e2563f5ea8d010e728ffd555edf",
-    "version": "1.1.0",
+    "download_url": "https://github.com/WesleyQDev/momai-vision/releases/download/v1.2.0/momai-vision-v1.2.0.zip",
+    "expected_sha256": "912d33230a7fc802bb3321d3e88c14a3b6d44fa865396e80c3ae35585df9fcc2",
+    "version": "1.2.0",
     "sdkVersion": 1,
     "momai_compat": ">=1.7.1",
     "locales": {
