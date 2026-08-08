@@ -69,6 +69,8 @@
     "description": "Olhos para a MomAI: snapshots de câmeras, monitoramento e alertas 100% locais.",
     "category": "utility",
     "icon": "👁️",
+    "icon_url": "https://raw.githubusercontent.com/WesleyQDev/momai-vision/main/icon.svg",
+    "icon_bg": "#10b981",
     "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-vision",
     "download_url": "https://github.com/WesleyQDev/momai-vision/releases/download/v1.2.2/momai-vision-v1.2.2.zip",
