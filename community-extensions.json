@@ -51,11 +51,11 @@
     "icon_bg": "#8B5CF6",
     "author": "WesleyQDev",
     "repo": "WesleyQDev/MomAISmartHome",
-    "download_url": "https://github.com/WesleyQDev/MomAISmartHome/releases/download/v1.0.19/MomAISmartHome-v1.0.19.zip",
-    "expected_sha256": "90ff99b3d1ded87c555dc20bfa1e0e0dc9ed7d7bdd265a7596c1f14856628787",
-    "version": "1.0.19",
+    "download_url": "https://github.com/WesleyQDev/MomAISmartHome/releases/download/v1.0.20/MomAISmartHome-v1.0.20.zip",
+    "expected_sha256": "8938ffc9f4625c450fb73a594a18bef73700a048c929eac16faa24c7855cc8e4",
+    "version": "1.0.20",
     "sdkVersion": 1,
-    "momai_compat": ">=1.7.1",
+    "momai_compat": ">=1.9.0",
     "locales": {
       "pt-BR": {
         "name": "MomAI Smart Home",
@@ -73,11 +73,11 @@
     "icon_bg": "#10b981",
     "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-vision",
-    "download_url": "https://github.com/WesleyQDev/momai-vision/releases/download/v1.2.3/momai-vision-v1.2.3.zip",
-    "expected_sha256": "7cbc604d99a964ffdb6e7ad90fc8927e8873af1bb1e95e4f52e08180a2e3c705",
-    "version": "1.2.3",
+    "download_url": "https://github.com/WesleyQDev/momai-vision/releases/download/v1.3.0/momai-vision-v1.3.0.zip",
+    "expected_sha256": "86e5cc08c6c3bf8066e522b3798748a696e93bc166c14e2845bbe868641af967",
+    "version": "1.3.0",
     "sdkVersion": 1,
-    "momai_compat": ">=1.7.1",
+    "momai_compat": ">=1.9.0",
     "locales": {
       "pt-BR": {
         "name": "MomAI Vision",
