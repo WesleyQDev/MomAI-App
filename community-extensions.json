@@ -29,11 +29,11 @@
     "icon_bg": "#25D366",
     "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-whatsapp-extension",
-    "download_url": "https://github.com/WesleyQDev/momai-whatsapp-extension/releases/download/v0.4.12/momai-whatsapp-extension-v0.4.12.zip",
-    "expected_sha256": "c0d3468db429e262b5833687a1544ff86d4188429c41f62baf1e8f7bc2df0638",
-    "version": "0.4.12",
+    "download_url": "https://github.com/WesleyQDev/momai-whatsapp-extension/releases/download/v0.4.13/momai-whatsapp-extension-v0.4.13.zip",
+    "expected_sha256": "4c4fd927ff921fe82b39fa5ead892dea8bfa99306753d5fb05bdb222cfdc5a40",
+    "version": "0.4.13",
     "sdkVersion": 1,
-    "momai_compat": ">=1.7.1",
+    "momai_compat": ">=1.9.0",
     "locales": {
       "pt-BR": {
         "name": "WhatsApp",
