@@ -73,9 +73,9 @@
     "icon_bg": "#10b981",
     "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-vision",
-    "download_url": "https://github.com/WesleyQDev/momai-vision/releases/download/v1.3.0/momai-vision-v1.3.0.zip",
-    "expected_sha256": "86e5cc08c6c3bf8066e522b3798748a696e93bc166c14e2845bbe868641af967",
-    "version": "1.3.0",
+    "download_url": "https://github.com/WesleyQDev/momai-vision/releases/download/v1.3.1/momai-vision-v1.3.1.zip",
+    "expected_sha256": "606ec018f7fbde6df9091115dbb23adeaecb1b6c8812838ce1352e7d4920310f",
+    "version": "1.3.1",
     "sdkVersion": 1,
     "momai_compat": ">=1.9.0",
     "locales": {
