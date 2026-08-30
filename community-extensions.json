@@ -51,9 +51,9 @@
     "icon_bg": "#8B5CF6",
     "author": "WesleyQDev",
     "repo": "WesleyQDev/MomAISmartHome",
-    "download_url": "https://github.com/WesleyQDev/MomAISmartHome/releases/download/v1.0.22/MomAISmartHome-v1.0.22.zip",
-    "expected_sha256": "546fba68150d6f7c2684702c13a7491b95d90b538f3b49bfeaa6fce28659a25e",
-    "version": "1.0.22",
+    "download_url": "https://github.com/WesleyQDev/MomAISmartHome/releases/download/v1.0.23/MomAISmartHome-v1.0.23.zip",
+    "expected_sha256": "8dc951b619beedcdba1e1c94d0d7e7290b975cca97e2f82dba372a38888ad644",
+    "version": "1.0.23",
     "sdkVersion": 1,
     "momai_compat": ">=1.10.0",
     "locales": {
