@@ -29,9 +29,9 @@
     "icon_bg": "#ffffff",
     "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-whatsapp",
-    "download_url": "https://github.com/WesleyQDev/momai-whatsapp/releases/download/v0.4.17/momai-whatsapp-v0.4.17.zip",
-    "expected_sha256": "7181ceae650836b16edcf70ee2903345efbe467bd6fb3673b99daaa334028f6e",
-    "version": "0.4.17",
+    "download_url": "https://github.com/WesleyQDev/momai-whatsapp/releases/download/v0.4.18/momai-whatsapp-v0.4.18.zip",
+    "expected_sha256": "25e7b959115362167c14dcd7fbaa6749be5d8ecbe7afeaf4071dcd8144f14679",
+    "version": "0.4.18",
     "sdkVersion": 1,
     "momai_compat": ">=1.10.0",
     "locales": {
@@ -86,6 +86,7 @@
     }
   }
 ]
+
 
 
 
