@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "id": "momai-open",
     "name": "MomAI Open",
@@ -29,9 +29,9 @@
     "icon_bg": "#ffffff",
     "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-whatsapp",
-    "download_url": "https://github.com/WesleyQDev/momai-whatsapp/releases/download/v0.4.21/momai-whatsapp-v0.4.21.zip",
-    "expected_sha256": "7b13a447b0c0aab5d846259836023f3623bc2002eeafe4af302cc89c11a02b6f",
-    "version": "0.4.21",
+    "download_url": "https://github.com/WesleyQDev/momai-whatsapp/releases/download/v0.4.22/momai-whatsapp-v0.4.22.zip",
+    "expected_sha256": "36141c90184d3ee6d867968d497adb235a19b7890d3d643bea3fdf775a58330e",
+    "version": "0.4.22",
     "sdkVersion": 1,
     "momai_compat": ">=1.10.0",
     "locales": {
