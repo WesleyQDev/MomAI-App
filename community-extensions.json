@@ -1,6 +1,6 @@
-[
+﻿[
   {
-    "id": "launcher",
+    "id": "momai-open",
     "name": "MomAI Open",
     "description": "Opens programs, apps, folders, files and URLs on your computer via voice or text commands.",
     "category": "utility",
@@ -20,38 +20,38 @@
     }
   },
   {
-    "id": "whatsapp",
-    "name": "WhatsApp",
+    "id": "momai-whatsapp",
+    "name": "MomAI WhatsApp",
     "description": "Monitore e responda mensagens do WhatsApp",
     "category": "utility",
     "icon": "WhatsApp",
-    "icon_url": "https://raw.githubusercontent.com/WesleyQDev/momai-whatsapp-extension/main/icon.svg",
+    "icon_url": "https://raw.githubusercontent.com/WesleyQDev/momai-whatsapp/main/icon.svg",
     "icon_bg": "#ffffff",
     "author": "WesleyQDev",
-    "repo": "WesleyQDev/momai-whatsapp-extension",
-    "download_url": "https://github.com/WesleyQDev/momai-whatsapp-extension/releases/download/v0.4.14/momai-whatsapp-extension-v0.4.14.zip",
-    "expected_sha256": "a26fc2d3f6892242e46443f258a806a9e4a3bac650866cab9e9e9b7fc2bca336",
-    "version": "0.4.14",
+    "repo": "WesleyQDev/momai-whatsapp",
+    "download_url": "https://github.com/WesleyQDev/momai-whatsapp/releases/download/v0.4.14/momai-whatsapp-extension-v0.4.14.zip",
+    "expected_sha256": "2391912b84fe36abfb19a42e71145ffa5d56c7a6468000eedfc0ca58c8e3bb46",
+    "version": "0.4.16",
     "sdkVersion": 1,
     "momai_compat": ">=1.10.0",
     "locales": {
       "pt-BR": {
-        "name": "WhatsApp",
+        "name": "MomAI WhatsApp",
         "description": "Monitore e responda mensagens do WhatsApp"
       }
     }
   },
   {
-    "id": "momaismarthome",
+    "id": "momai-smarthome",
     "name": "MomAI Smart Home",
     "description": "Controle dispositivos inteligentes do Home Assistant por voz, texto e painel visual.",
     "category": "utility",
     "icon": "Home",
-    "icon_url": "https://raw.githubusercontent.com/WesleyQDev/MomAISmartHome/main/icon.png",
+    "icon_url": "https://raw.githubusercontent.com/WesleyQDev/momai-smarthome/main/icon.png",
     "icon_bg": "#8B5CF6",
     "author": "WesleyQDev",
-    "repo": "WesleyQDev/MomAISmartHome",
-    "download_url": "https://github.com/WesleyQDev/MomAISmartHome/releases/download/v1.0.23/MomAISmartHome-v1.0.23.zip",
+    "repo": "WesleyQDev/momai-smarthome",
+    "download_url": "https://github.com/WesleyQDev/momai-smarthome/releases/download/v1.0.23/MomAISmartHome-v1.0.23.zip",
     "expected_sha256": "8dc951b619beedcdba1e1c94d0d7e7290b975cca97e2f82dba372a38888ad644",
     "version": "1.0.23",
     "sdkVersion": 1,
@@ -86,3 +86,4 @@
     }
   }
 ]
+
