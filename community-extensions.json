@@ -30,7 +30,7 @@
     "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-whatsapp",
     "download_url": "https://github.com/WesleyQDev/momai-whatsapp/releases/download/v0.4.24/momai-whatsapp-v0.4.24.zip",
-    "expected_sha256": "f76f67810441ca033170c50c14b3b324a29885bc112261323b75aa6da361205c",
+    "expected_sha256": "e2a96e1fec3dda7489fe478dbda9f001a005f9879057b4854cd6082d5b3e71dd",
     "version": "0.4.24",
     "sdkVersion": 1,
     "momai_compat": ">=1.10.0",
