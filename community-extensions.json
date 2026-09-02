@@ -84,5 +84,27 @@
         "description": "Olhos para a MomAI: snapshots de câmeras, monitoramento e alertas 100% locais."
       }
     }
+  },
+  {
+    "id": "momai-emails",
+    "name": "MomAI E-mails",
+    "description": "Cliente de e-mail completo com suporte a SMTP/IMAP, múltiplas contas, automações e integração com o assistente MomAI.",
+    "category": "communication",
+    "icon": "https://raw.githubusercontent.com/WesleyQDev/momai-emails/main/icon.svg",
+    "icon_url": "https://raw.githubusercontent.com/WesleyQDev/momai-emails/main/icon.svg",
+    "icon_bg": "#4f46e5",
+    "author": "WesleyQDev",
+    "repo": "WesleyQDev/momai-emails",
+    "download_url": "https://github.com/WesleyQDev/momai-emails/releases/download/v1.0.0/momai-emails-v1.0.0.zip",
+    "expected_sha256": "2973821a2193971366a29db37e5c6addd2b930842279406d78a8084532903f41",
+    "version": "1.0.0",
+    "sdkVersion": 1,
+    "momai_compat": ">=1.10.0",
+    "locales": {
+      "pt-BR": {
+        "name": "MomAI E-mails",
+        "description": "Cliente de e-mail completo com suporte a SMTP/IMAP, múltiplas contas, automações e integração com o assistente MomAI."
+      }
+    }
   }
 ]
