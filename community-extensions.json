@@ -4,15 +4,16 @@
     "name": "MomAI Open",
     "description": "Opens programs, apps, folders, files and URLs on your computer via voice or text commands.",
     "category": "utility",
-    "icon": "RocketLaunch",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z\"/><path d=\"M12 15l-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z\" fill=\"#ffffff\" fill-opacity=\"0.18\"/><path d=\"M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0\"/><path d=\"M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5\"/></svg>",
+    "sidebar_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#38bdf8\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z\"/><path d=\"M12 15l-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z\" fill=\"#38bdf8\" fill-opacity=\"0.15\"/><path d=\"M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0\"/><path d=\"M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5\"/></svg>",
     "icon_bg": "#0066CC",
-    "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-open",
-    "download_url": "https://github.com/WesleyQDev/momai-open/releases/download/v1.1.1/momai-open-v1.1.1.zip",
-    "expected_sha256": "6144600453508071478dff799f6f62bd0a678698934617faf5aa93ed32013f83",
-    "version": "1.1.1",
+    "download_url": "https://github.com/WesleyQDev/momai-open/releases/download/v1.1.2/momai-open-v1.1.2.zip",
+    "expected_sha256": "9d96bde4382ad1481232a9a92b5aac4877251e47805476766189e98e1709180a",
+    "version": "1.1.2",
     "sdkVersion": 1,
-    "momai_compat": ">=1.7.1",
+    "momai_compat": ">=1.11.0",
+    "is_official": true,
     "locales": {
       "pt-BR": {
         "name": "MomAI Open",
@@ -24,39 +25,40 @@
     "id": "momai-whatsapp",
     "name": "MomAI WhatsApp",
     "description": "Monitore e responda mensagens do WhatsApp",
-    "category": "utility",
+    "category": "communication",
     "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#ffffff\"><path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/></svg>",
+    "sidebar_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#25D366\"><path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/></svg>",
     "icon_bg": "#25D366",
-    "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-whatsapp",
-    "download_url": "https://github.com/WesleyQDev/momai-whatsapp/releases/download/v0.4.25/momai-whatsapp-v0.4.25.zip",
-    "expected_sha256": "a9f2975a928bf3e0f463de4e60640a50300bcc305d38988ce186262d24f98954",
-    "version": "0.4.25",
+    "download_url": "https://github.com/WesleyQDev/momai-whatsapp/releases/download/v0.4.26/momai-whatsapp-v0.4.26.zip",
+    "expected_sha256": "37158ab9d451eaf2d427e11f1c08b4ffbc9e0edad99f5e80d3f1b4f9760341da",
+    "version": "0.4.26",
     "sdkVersion": 1,
-    "momai_compat": ">=1.10.0",
+    "momai_compat": ">=1.11.0",
+    "is_official": true,
     "locales": {
       "pt-BR": {
         "name": "MomAI WhatsApp",
         "description": "Monitore e responda mensagens do WhatsApp"
       }
-    },
-    "sidebar_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#25D366\"><path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/></svg>"
+    }
   },
   {
     "id": "momai-smarthome",
     "name": "MomAI Smart Home",
     "description": "Controle dispositivos inteligentes do Home Assistant por voz, texto e painel visual.",
     "category": "utility",
-    "icon": "Home",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\" fill=\"none\" stroke=\"#ffffff\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M33 13.5V8a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v9\" stroke=\"#ffffff\" stroke-width=\"2.8\" fill=\"#ffffff\" fill-opacity=\"0.18\"/><path d=\"M5 21L24 6l19 15\" stroke=\"#ffffff\" stroke-width=\"3.2\"/><path d=\"M9 20v17a3 3 0 0 0 3 3h24a3 3 0 0 0 3-3V20\" stroke=\"#ffffff\" stroke-width=\"2.8\" fill=\"#ffffff\" fill-opacity=\"0.12\"/><path d=\"M29 17a6 6 0 0 1 6-4\" stroke=\"#ffffff\" stroke-width=\"2.2\"/><path d=\"M31 12.5a10 10 0 0 1 7.5-4\" stroke=\"#ffffff\" stroke-width=\"2.2\"/><rect x=\"16\" y=\"19\" width=\"16\" height=\"24\" rx=\"4.5\" fill=\"#ffffff\" fill-opacity=\"0.22\" stroke=\"#ffffff\" stroke-width=\"2.4\"/><path d=\"M21.5 26.5v-2a2.5 2.5 0 0 1 5 0v2\" stroke=\"#ffffff\" stroke-width=\"1.8\"/><rect x=\"20\" y=\"26.5\" width=\"8\" height=\"6\" rx=\"1.2\" stroke=\"#ffffff\" stroke-width=\"1.6\" fill=\"none\"/><circle cx=\"24\" cy=\"29.5\" r=\"0.9\" fill=\"#ffffff\" stroke=\"none\"/><line x1=\"19\" y1=\"34.5\" x2=\"29\" y2=\"34.5\" stroke=\"#ffffff\" stroke-width=\"1.2\" opacity=\"0.7\"/><circle cx=\"20\" cy=\"38\" r=\"1.1\" fill=\"#ffffff\" stroke=\"none\"/><circle cx=\"24\" cy=\"38\" r=\"1.1\" fill=\"#ffffff\" stroke=\"none\"/><circle cx=\"28\" cy=\"38\" r=\"1.1\" fill=\"#ffffff\" stroke=\"none\"/><circle cx=\"20\" cy=\"41\" r=\"1.1\" fill=\"#ffffff\" stroke=\"none\"/><circle cx=\"24\" cy=\"41\" r=\"1.1\" fill=\"#ffffff\" stroke=\"none\"/><circle cx=\"28\" cy=\"41\" r=\"1.1\" fill=\"#ffffff\" stroke=\"none\"/></svg>",
+    "sidebar_icon": "https://raw.githubusercontent.com/WesleyQDev/momai-smarthome/main/icon.png",
     "icon_url": "https://raw.githubusercontent.com/WesleyQDev/momai-smarthome/main/icon.png",
     "icon_bg": "#8B5CF6",
-    "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-smarthome",
-    "download_url": "https://github.com/WesleyQDev/momai-smarthome/releases/download/v1.0.25/momai-smarthome-v1.0.25.zip",
-    "expected_sha256": "440c7f784b3a9bd2422b98151e3eb43c79298702cfb525278cd2295e89d089cb",
-    "version": "1.0.25",
+    "download_url": "https://github.com/WesleyQDev/momai-smarthome/releases/download/v1.0.26/momai-smarthome-v1.0.26.zip",
+    "expected_sha256": "ba5487b8bda26b37036e1d6121d4cfcaf32c8def18375582a8e7b2ce55db1b1d",
+    "version": "1.0.26",
     "sdkVersion": 1,
-    "momai_compat": ">=1.10.0",
+    "momai_compat": ">=1.11.0",
+    "is_official": true,
     "locales": {
       "pt-BR": {
         "name": "MomAI Smart Home",
@@ -72,13 +74,13 @@
     "icon": "https://raw.githubusercontent.com/WesleyQDev/momai-vision/main/icon.png",
     "icon_url": "https://raw.githubusercontent.com/WesleyQDev/momai-vision/main/icon.png",
     "icon_bg": "#10b981",
-    "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-vision",
-    "download_url": "https://github.com/WesleyQDev/momai-vision/releases/download/v1.3.3/momai-vision-v1.3.3.zip",
-    "expected_sha256": "d09945816fb66fa61152f07cc67263e0598604d31ee7303dfac5f7a9682d48d6",
-    "version": "1.3.3",
+    "download_url": "https://github.com/WesleyQDev/momai-vision/releases/download/v1.3.4/momai-vision-v1.3.4.zip",
+    "expected_sha256": "bac23e3f6e0240d6a27acfb785530144a77c638e35e0a0222e1fd5de0c6916b3",
+    "version": "1.3.4",
     "sdkVersion": 1,
-    "momai_compat": ">=1.10.0",
+    "momai_compat": ">=1.11.0",
+    "is_official": true,
     "locales": {
       "pt-BR": {
         "name": "MomAI Vision",
@@ -94,17 +96,39 @@
     "icon": "https://raw.githubusercontent.com/WesleyQDev/momai-emails/main/icon.svg",
     "icon_url": "https://raw.githubusercontent.com/WesleyQDev/momai-emails/main/icon.svg",
     "icon_bg": "#4f46e5",
-    "author": "WesleyQDev",
     "repo": "WesleyQDev/momai-emails",
     "download_url": "https://github.com/WesleyQDev/momai-emails/releases/download/v1.0.0/momai-emails-v1.0.0.zip",
-    "expected_sha256": "2973821a2193971366a29db37e5c6addd2b930842279406d78a8084532903f41",
+    "expected_sha256": "7114c45cd31313fc04b14e1ed754b815d7a529ed756c2e4ec83c0a669da0b01e",
     "version": "1.0.0",
     "sdkVersion": 1,
-    "momai_compat": ">=1.10.0",
+    "momai_compat": ">=1.11.0",
+    "is_official": true,
     "locales": {
       "pt-BR": {
         "name": "MomAI E-mails",
         "description": "Cliente de e-mail completo com suporte a SMTP/IMAP, múltiplas contas, automações e integração com o assistente MomAI."
+      }
+    }
+  },
+  {
+    "id": "momai-biblia-sagrada",
+    "name": "Bíblia Sagrada",
+    "description": "Leitura, estudo devocional, busca avançada e automações da Bíblia Sagrada completa para a MomAI.",
+    "category": "lifestyle",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\" fill=\"none\" stroke=\"#ffffff\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M13 6h27v36H13c-4 0-6-3-6-6V12c0-3 2-6 6-6z\" fill=\"#ffffff\" fill-opacity=\"0.18\" stroke=\"#ffffff\" stroke-width=\"3\"/><path d=\"M9 39c3.5-2 7-2 11-2h20\" stroke=\"#ffffff\" stroke-width=\"3\" fill=\"none\"/><path d=\"M33 6v6l2-1.5 2 1.5V6\" fill=\"#ffffff\" stroke=\"none\" opacity=\"0.9\"/><text x=\"27\" y=\"25\" text-anchor=\"middle\" fill=\"#ffffff\" stroke=\"none\" font-family=\"'Georgia', 'Times New Roman', serif\" font-size=\"8.5\" font-weight=\"bold\" letter-spacing=\"0.5\">Bíblia</text><line x1=\"18\" y1=\"29\" x2=\"36\" y2=\"29\" stroke=\"#ffffff\" stroke-width=\"1.5\" opacity=\"0.75\"/></svg>",
+    "sidebar_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\" fill=\"none\" stroke=\"#166fe5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M13 6h27v36H13c-4 0-6-3-6-6V12c0-3 2-6 6-6z\" fill=\"#166fe5\" fill-opacity=\"0.12\" stroke=\"#166fe5\" stroke-width=\"3\"/><path d=\"M9 39c3.5-2 7-2 11-2h20\" stroke=\"#166fe5\" stroke-width=\"3\" fill=\"none\"/><path d=\"M33 6v6l2-1.5 2 1.5V6\" fill=\"#166fe5\" stroke=\"none\" opacity=\"0.9\"/><text x=\"27\" y=\"25\" text-anchor=\"middle\" fill=\"#166fe5\" stroke=\"none\" font-family=\"'Georgia', 'Times New Roman', serif\" font-size=\"8.5\" font-weight=\"bold\" letter-spacing=\"0.5\">Bíblia</text><line x1=\"18\" y1=\"29\" x2=\"36\" y2=\"29\" stroke=\"#166fe5\" stroke-width=\"1.5\" opacity=\"0.75\"/></svg>",
+    "icon_bg": "#166fe5",
+    "repo": "WesleyQDev/momai-biblia-sagrada",
+    "download_url": "https://github.com/WesleyQDev/momai-biblia-sagrada/releases/download/v1.0.0/momai-biblia-sagrada-v1.0.0.zip",
+    "expected_sha256": "d6adb369e42210b2694de634969e6b07a5af5b2663a7d76e50ab8078244dcc81",
+    "version": "1.0.0",
+    "sdkVersion": 1,
+    "momai_compat": ">=1.11.0",
+    "is_official": true,
+    "locales": {
+      "pt-BR": {
+        "name": "Bíblia Sagrada",
+        "description": "Leitura, estudo devocional, busca avançada e automações da Bíblia Sagrada completa para a MomAI."
       }
     }
   }
