@@ -1,0 +1,38 @@
+[
+  {
+    "id": "momai-open",
+    "repo": "WesleyQDev/momai-open",
+    "category": "utility",
+    "is_official": true
+  },
+  {
+    "id": "momai-whatsapp",
+    "repo": "WesleyQDev/momai-whatsapp",
+    "category": "communication",
+    "is_official": true
+  },
+  {
+    "id": "momai-smarthome",
+    "repo": "WesleyQDev/momai-smarthome",
+    "category": "utility",
+    "is_official": true
+  },
+  {
+    "id": "momai-vision",
+    "repo": "WesleyQDev/momai-vision",
+    "category": "utility",
+    "is_official": true
+  },
+  {
+    "id": "momai-emails",
+    "repo": "WesleyQDev/momai-emails",
+    "category": "communication",
+    "is_official": true
+  },
+  {
+    "id": "momai-biblia-sagrada",
+    "repo": "WesleyQDev/momai-biblia-sagrada",
+    "category": "lifestyle",
+    "is_official": true
+  }
+]
