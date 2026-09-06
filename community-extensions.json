@@ -31,7 +31,7 @@
     "icon_bg": "#25D366",
     "repo": "WesleyQDev/momai-whatsapp",
     "download_url": "https://github.com/WesleyQDev/momai-whatsapp/releases/download/v0.5.3/momai-whatsapp-v0.5.3.zip",
-    "expected_sha256": "a188c1e1ceeda843460f7773fbe2b17107d0990d2a3e1c69d236f93ebb3488b3",
+    "expected_sha256": "cc63ea0b8c45e73bdec75fe77424fcee5a5a3c13e98e50edc6219fb2461e6f5d",
     "version": "0.5.3",
     "sdkVersion": 1,
     "momai_compat": ">=1.11.0",
