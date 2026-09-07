@@ -33,9 +33,9 @@
     "id": "momai-biblia-sagrada",
     "repo": "WesleyQDev/momai-biblia-sagrada",
     "category": "lifestyle",
-    "version": "1.2.1",
-    "download_url": "https://github.com/WesleyQDev/momai-biblia-sagrada/releases/download/v1.2.1/momai-biblia-sagrada-v1.2.1.zip",
-    "expected_sha256": "82a99d1f0ba8596a578b5b1adaf55690219ee56d17aaa4d5d79668195505cb7b",
+    "version": "1.2.2",
+    "download_url": "https://github.com/WesleyQDev/momai-biblia-sagrada/releases/download/v1.2.2/momai-biblia-sagrada-v1.2.2.zip",
+    "expected_sha256": "ad7cdedd9d12aced0ae9730d4af2c16ded799d1873540f4ed22ce59179a539d4",
     "is_official": true
   }
 ]
