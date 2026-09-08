@@ -1,23 +1,23 @@
 [
   {
-    "id": "momai-open",
-    "name": "MomAI Open",
-    "description": "Opens programs, apps, folders, files and URLs on your computer via voice or text commands.",
+    "id": "momai-desktop",
+    "name": "MomAI Desktop",
+    "description": "Open programs and automate tasks: MomAI sees the on-screen buttons and shows every step.",
     "category": "utility",
-    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#ffffff\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z\"/><path d=\"M12 15l-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z\" fill=\"#ffffff\" fill-opacity=\"0.18\"/><path d=\"M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0\"/><path d=\"M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5\"/></svg>",
-    "sidebar_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#38bdf8\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z\"/><path d=\"M12 15l-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z\" fill=\"#38bdf8\" fill-opacity=\"0.15\"/><path d=\"M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0\"/><path d=\"M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5\"/></svg>",
-    "icon_bg": "#0066CC",
-    "repo": "WesleyQDev/momai-open",
-    "download_url": "https://github.com/WesleyQDev/momai-open/releases/download/v1.1.4/momai-open-v1.1.4.zip",
-    "expected_sha256": "9478b2a3852ce14acef83c05cfb138ee308e9f56f5b244902e8a76cb8b2934b8",
-    "version": "1.1.4",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\"><rect x=\"2\" y=\"4\" width=\"20\" height=\"12.5\" rx=\"3.5\" fill=\"#ffffff\" fill-opacity=\"0.18\" stroke=\"#ffffff\" stroke-width=\"1.8\"/><circle cx=\"5\" cy=\"7\" r=\"0.8\" fill=\"#ffffff\" opacity=\"0.9\"/><circle cx=\"7.3\" cy=\"7\" r=\"0.8\" fill=\"#ffffff\" opacity=\"0.55\"/><path d=\"M10.6 9.3v4.4l1.5-1.4 1 1.9 1.2-.6-1-1.8 1.7-.5-4.4-2z\" fill=\"#ffffff\" stroke=\"#ffffff\" stroke-width=\"0.6\" stroke-linejoin=\"round\"/><path d=\"M9 20.5h6\" stroke=\"#ffffff\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><path d=\"M12 16.5v4\" stroke=\"#ffffff\" stroke-width=\"1.8\" stroke-linecap=\"round\"/><circle cx=\"18.6\" cy=\"5.8\" r=\"2.7\" fill=\"#38BDF8\"/><path d=\"M19 4.4l-1.2 1.7h.9l-.3 1.4 1.2-1.7h-.9l.3-1.4z\" fill=\"#ffffff\"/></svg>",
+    "sidebar_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\"><rect x=\"2\" y=\"4.5\" width=\"20\" height=\"12\" rx=\"3.5\" fill=\"#6366F1\"/><rect x=\"4.3\" y=\"6.8\" width=\"15.4\" height=\"7.4\" rx=\"1.8\" fill=\"#FFFFFF\"/><circle cx=\"6.2\" cy=\"8.6\" r=\"0.7\" fill=\"#6366F1\" opacity=\"0.55\"/><circle cx=\"8.1\" cy=\"8.6\" r=\"0.7\" fill=\"#6366F1\" opacity=\"0.3\"/><path d=\"M10.6 9.8v3.6l1.2-1.1.8 1.5 1-.5-.8-1.4 1.4-.4-3.6-1.7z\" fill=\"#4F46E5\"/><path d=\"M9 20.5h6\" stroke=\"#6366F1\" stroke-width=\"1.9\" stroke-linecap=\"round\"/><path d=\"M12 16.5v4\" stroke=\"#6366F1\" stroke-width=\"1.9\" stroke-linecap=\"round\"/><circle cx=\"18.6\" cy=\"5.8\" r=\"2.7\" fill=\"#38BDF8\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><path d=\"M19 4.4l-1.2 1.7h.9l-.3 1.4 1.2-1.7h-.9l.3-1.4z\" fill=\"#ffffff\"/></svg>",
+    "icon_bg": "#6366f1",
+    "repo": "WesleyQDev/momai-desktop",
+    "download_url": "https://github.com/WesleyQDev/momai-desktop/releases/download/v2.0.2/momai-desktop-v2.0.2.zip",
+    "expected_sha256": "57f9beec992dcf34a710485e9574846e605f9c40ae5b09834b8a36a3fc942b62",
+    "version": "2.0.2",
     "sdkVersion": 1,
-    "momai_compat": ">=1.11.0",
+    "momai_compat": ">=1.12.0",
     "is_official": true,
     "locales": {
       "pt-BR": {
-        "name": "MomAI Open",
-        "description": "Abre programas, aplicativos, pastas, arquivos e URLs no computador através de comandos de voz e texto."
+        "name": "MomAI Desktop",
+        "description": "Abra programas e automatize tarefas: a MomAI enxerga os botões da tela e mostra cada passo."
       }
     }
   },
