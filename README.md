@@ -30,10 +30,12 @@ MomAI's long-term goal is to be a **proactive** assistant: analyze incoming data
 
 | Extension | Description | Repository |
 |-----------|-------------|------------|
-| WhatsApp Web | WhatsApp integration: monitor conversations, receive notifications, and reply to messages | [WesleyQDev/momai-whatsapp-extension](https://github.com/WesleyQDev/momai-whatsapp-extension) |
-| MomAIOpen | Open programs, files and folders using natural language commands | [WesleyQDev/momai-open](https://github.com/WesleyQDev/momai-open) |
+| MomAI WhatsApp | WhatsApp integration: monitor conversations, receive notifications, and reply to messages | [WesleyQDev/momai-whatsapp](https://github.com/WesleyQDev/momai-whatsapp) |
+| MomAI Desktop | Open programs and automate tasks: MomAI sees the on-screen buttons and shows every step | [WesleyQDev/momai-desktop](https://github.com/WesleyQDev/momai-desktop) |
 | MomAI Vision | Computer vision: camera snapshots, object detection and monitoring alerts, fully local | [WesleyQDev/momai-vision](https://github.com/WesleyQDev/momai-vision) |
-| MomAI Smart Home | Control Home Assistant devices, including lights, TVs, climate, sensors and more | [WesleyQDev/MomAISmartHome](https://github.com/WesleyQDev/MomAISmartHome) |
+| MomAI Smart Home | Control Home Assistant devices, including lights, TVs, climate, sensors and more | [WesleyQDev/momai-smarthome](https://github.com/WesleyQDev/momai-smarthome) |
+| MomAI E-mails | Read, send and organize e-mails by voice or text, without opening the browser | [WesleyQDev/momai-emails](https://github.com/WesleyQDev/momai-emails) |
+| Holy Bible | Bible reading, devotional study, advanced search and automations | [WesleyQDev/momai-biblia-sagrada](https://github.com/WesleyQDev/momai-biblia-sagrada) |
 
 ## Stack
 
@@ -41,7 +43,7 @@ MomAI's long-term goal is to be a **proactive** assistant: analyze incoming data
 |-------|------------|
 | Desktop | Electron, React, TypeScript, TailwindCSS |
 | Build | electron-vite, pnpm, Turborepo |
-| AI Orchestration | Node.js, LangGraph, LangChain |
+| AI Orchestration | Node.js |
 | Semantic Search | LanceDB |
 | Voice Backend | Python 3.12+, FastAPI, faster-whisper, Kokoro ONNX |
 | TTS | edge-tts-universal, Kokoro ONNX, say.js |
