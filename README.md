@@ -19,7 +19,6 @@ MomAI's long-term goal is to be a **proactive** assistant: analyze incoming data
 
 - **Extension system.** Add new capabilities through the built-in store. Extensions are self-contained packages with React UI and their own manifest.
 - **3 voice synthesis options.** Edge TTS (cloud), Kokoro ONNX (local, streaming) and say.js (local fallback). Choose between quality and privacy.
-- **3 operation modes.** Run according to your hardware: light mode for modest machines, balanced mode, and maximum mode for dedicated GPUs.
 - **Complete Markdown notes system.** Create, edit and manage notes by text or voice. MomAI organizes everything intelligently.
 - **Smart memory.** MomAI remembers information across sessions, building a persistent context about you.
 - **Web and YouTube search.** Search the web for up-to-date information and find videos without opening a browser.
