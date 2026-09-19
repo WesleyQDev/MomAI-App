@@ -38,5 +38,11 @@
     "download_url": "https://github.com/WesleyQDev/momai-biblia-sagrada/releases/download/v1.2.2/momai-biblia-sagrada-v1.2.2.zip",
     "expected_sha256": "ad7cdedd9d12aced0ae9730d4af2c16ded799d1873540f4ed22ce59179a539d4",
     "is_official": true
+  },
+  {
+    "id": "momai-noticias",
+    "repo": "WesleyQDev/momai-noticias",
+    "category": "news",
+    "is_official": true
   }
 ]
