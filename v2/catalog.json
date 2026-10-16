@@ -44,5 +44,11 @@
     "repo": "WesleyQDev/momai-noticias",
     "category": "news",
     "is_official": true
+  },
+  {
+    "id": "momai-code",
+    "repo": "WesleyQDev/momai-code",
+    "category": "utility",
+    "is_official": true
   }
 ]
