@@ -6,9 +6,7 @@
 
 **Your proactive AI assistant that respects your privacy.**
 
-[![Latest release](https://img.shields.io/github/v/release/WesleyQDev/MomAI-App?style=for-the-badge&label=latest%20release&color=8B5CF6)](https://github.com/WesleyQDev/MomAI-App/releases) [![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-download-0078D4?style=for-the-badge&logo=microsoft)](https://apps.microsoft.com/detail/9nm4jg67cgcd?hl=en-US&gl=US) [![Website](https://img.shields.io/badge/website-momaiassistente.studio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://momaiassistente.studio/) [![Documentation](https://img.shields.io/badge/docs-user%20guide-0EA5E9?style=for-the-badge&logo=readthedocs&logoColor=white)](https://momaiassistente.studio/docs/) [![License](https://img.shields.io/badge/license-proprietary-red?style=for-the-badge)](LICENSE)
-
-[Website](https://momaiassistente.studio/) · [Documentation](https://momaiassistente.studio/docs/) · [Releases](https://github.com/WesleyQDev/MomAI-App/releases) · [Report an issue](https://github.com/WesleyQDev/MomAI-App/issues)
+[![Latest release](https://img.shields.io/github/v/release/WesleyQDev/MomAI-App?style=for-the-badge&label=latest%20release&color=8B5CF6)](https://github.com/WesleyQDev/MomAI-App/releases) [![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-download-0078D4?style=for-the-badge&logo=microsoft)](https://apps.microsoft.com/detail/9nm4jg67cgcd?hl=en-US&gl=US) [![Documentation](https://img.shields.io/badge/docs-user%20guide-0EA5E9?style=for-the-badge&logo=readthedocs&logoColor=white)](https://momaiassistente.studio/docs/)
 
 </div>
 
